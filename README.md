@@ -16,6 +16,7 @@ It includes APIs for creating and listing leads.
 ## How to Run
 1.clone the repository
 git clone https://github.com/your-username/lead-management-backend.git
+
 cd lead-management-backend
 
 2.Install Dependencies
@@ -29,4 +30,5 @@ PORT=5000
 4.Start the Server
 For development (auto-reload):
 npm run dev
+
 
